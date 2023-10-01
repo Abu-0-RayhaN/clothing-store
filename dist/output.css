@@ -722,6 +722,10 @@ video {
   gap: 2.5rem;
 }
 
+.self-center {
+  align-self: center;
+}
+
 .rounded-full {
   border-radius: 9999px;
 }
